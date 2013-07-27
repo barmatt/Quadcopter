@@ -1,6 +1,7 @@
-# built application files
+﻿# built application files
 
 *.apk
+
 *.ap_
 
 
